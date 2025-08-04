@@ -20,7 +20,8 @@ This project presents an interactive Power BI dashboard built to analyze sales d
 ![Dashboard 1](<Screenshot 2025-08-03 200442.png>)
 ![Dashboard 2](<Screenshot 2025-08-04 194021.png>)
 ![Dashboard 3](<Screenshot 2025-08-04 194504.png>)
-*Note: Add the actual image path if hosted in your repo.*
+
+*Note: This graphics and structures was created basead on Excel files. 
 
 ## 📁 Repository Structure
 
