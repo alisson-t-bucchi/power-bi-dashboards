@@ -25,9 +25,11 @@ This project presents an interactive Power BI dashboard built to analyze sales d
 
 ## 📁 Repository Structure
 
+```
 ├── data/                 # Excel data files used in the dashboard 
 ├── dashboard.pbix        # Power BI project file 
 ├── README.md             # This documentation file
+```
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop.  
