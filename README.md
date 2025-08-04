@@ -17,7 +17,9 @@ This project presents an interactive Power BI dashboard built to analyze sales d
 - **ETL Framework** for data preparation (based on Excel data sources)  
 
 ## 📷 Preview
-![Power BI Dashboard Screenshot](YOUR_IMAGE_LINK_HERE)  
+![Dashboard 1](<Screenshot 2025-08-03 200442.png>)
+![Dashboard 2](<Screenshot 2025-08-04 194021.png>)
+![Dashboard 3](<Screenshot 2025-08-04 194504.png>)
 *Note: Add the actual image path if hosted in your repo.*
 
 ## 📁 Repository Structure
